@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 Here is where I work:
+
 ![Pelifarmikuva.](https://nuortenoulu.fi/app/uploads/sites/24/2024/05/pelifarmi-logo-e1719995269572.png)
 
 
