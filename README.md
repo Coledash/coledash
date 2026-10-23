@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://coledash.github.io/coledash/
 <!--
 **Coledash/coledash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Pelifarmikuva.](https://nuortenoulu.fi/app/uploads/sites/24/2024/05/pelifarmi-logo-e1719995269572.png)
